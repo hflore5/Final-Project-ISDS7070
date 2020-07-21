@@ -1,2 +1,2 @@
 # Final-Project-ISDS7070
-Final project isds 7070 documents.
+This section includes all the documents created for the final project for ISDS 7070.
